@@ -4,11 +4,12 @@ body {
 	font-family: 'Helvetica', sans-serif;
 }
 
-#delete {
-	margin: 10px;
+.delete-card {
+	margin-left: 10px;
 }
 
 .cards {
+
 	display: inline-block;
 }
 
