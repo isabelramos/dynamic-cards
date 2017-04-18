@@ -1,0 +1,62 @@
+body {
+	background-color: #a6c7fc;
+	color: #ffffff;
+	font-family: 'Helvetica', sans-serif;
+}
+
+.delete-card {
+	margin-left: 10px;
+}
+
+.cards {
+
+	display: inline-block;
+}
+
+.red-card {
+	height: 150px;
+	width: 150px;
+	margin: 10px 10px 0px 10px;
+	background-color: red;
+	display: inline-block;
+}
+
+.orange-card {
+	height: 150px;
+	width: 150px;
+	margin: 10px 10px 0px 10px;
+	background-color: orange;
+	display: inline-block;
+}
+
+.yellow-card {
+	height: 150px;
+	width: 150px;
+	margin: 10px 10px 0px 10px;
+	background-color: yellow;
+	display: inline-block;
+}
+
+.green-card {
+	height: 150px;
+	width: 150px;
+	margin: 10px 10px 0px 10px;
+	background-color: green;
+	display: inline-block;
+}
+
+.blue-card {
+	height: 150px;
+	width: 150px;
+	margin: 10px 10px 0px 10px;
+	background-color: blue;
+	display: inline-block;
+}
+
+.purple-card {
+	height: 150px;
+	width: 150px;
+	margin: 10px 10px 0px 10px;
+	background-color: purple;
+	display: inline-block;
+}
